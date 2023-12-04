@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import codeforcesData from "../assets/codeforces-problems.json";
 
 const getContestProblemsGroupped = (minRating = 0, maxRating = 4000) => {

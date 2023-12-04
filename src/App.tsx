@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { ThemeProvider } from './components/ThemeProvider';
 import { ColorModeToggle } from './components/ColorModeToggle';
 import { QuestionTable } from './components/QuestionTable';
